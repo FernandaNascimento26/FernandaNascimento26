@@ -1,7 +1,6 @@
+<img align="right" src="https://user-images.githubusercontent.com/40062831/183268859-4ff4fa02-3069-4ff5-95ec-3a313cd80bc5.jpg" width="400"/>
 
-
-## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Fernanda Nascimento! ![Count views](https://komarev.com/ghpvc/?username=fernandanascimento26&color=blueviolet&style=flat-square) 
-<img align="right" src="https://user-images.githubusercontent.com/40062831/183268859-4ff4fa02-3069-4ff5-95ec-3a313cd80bc5.jpg" width="250"/>
+## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Fernanda Nascimento! ![Count views](https://komarev.com/ghpvc/?username=fernandanascimento26&color=blueviolet&style=flat-square)
 
 I am a student of a master's degree in Computer Science with a focus on research related to data in education (school dropout) and health.
 Passionate about data and its power to transform people's lives (power of analysis, prediction, decision). Gradually I have been learning a little more about data science, carrying out some practical projects based on scientific studies.
