@@ -1,4 +1,7 @@
-## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Fernanda Nascimento! ![Count views](https://komarev.com/ghpvc/?username=fernandanascimento26&color=blueviolet&style=flat-square)
+
+
+## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Fernanda Nascimento! ![Count views](https://komarev.com/ghpvc/?username=fernandanascimento26&color=blueviolet&style=flat-square) 
+<img align="right" src="https://user-images.githubusercontent.com/40062831/183268859-4ff4fa02-3069-4ff5-95ec-3a313cd80bc5.jpg" width="250"/>
 
 I am a student of a master's degree in Computer Science with a focus on research related to data in education (school dropout) and health.
 Passionate about data and its power to transform people's lives (power of analysis, prediction, decision). Gradually I have been learning a little more about data science, carrying out some practical projects based on scientific studies.
@@ -53,20 +56,14 @@ May 2020 - May 2021
 <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" style="width:60px;">
 </div>
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-  <br />
+## :zap: Github Stats
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaNascimento26&show_icons=true&layout=compact&theme=radical&cache_seconds=1000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaNascimento26&layout=compact&theme=radical"/>
-
-</details>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaNascimento26&show_icons=true&layout=compact&theme=radical&cache_seconds=1000" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaNascimento26&layout=compact&theme=radical"/>
 
 ## :earth_americas: You can find me at
+
 <div>
   <span><a href="https://www.linkedin.com/in/fernanda-nascimento-56761b122/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" ></a></span>
   <span><a href="mailto:nascimentofernandaf@outlook.com" target="_blank" ><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" ></a></span>
 </div>
-<br>
-<br>
-<br>
