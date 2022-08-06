@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/40062831/183268859-4ff4fa02-3069-4ff5-95ec-3a313cd80bc5.jpg" width="400"/>
+<img align="right" src="https://user-images.githubusercontent.com/40062831/183268859-4ff4fa02-3069-4ff5-95ec-3a313cd80bc5.jpg" width="300"/>
 
 ## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Fernanda Nascimento! ![Count views](https://komarev.com/ghpvc/?username=fernandanascimento26&color=blueviolet&style=flat-square)
 
