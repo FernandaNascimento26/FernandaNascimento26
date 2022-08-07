@@ -44,14 +44,14 @@ May 2020 - May 2021
 
 ## :rocket: My Skills
 
-<div style="display: inline_block"> 
+<div> 
 <img alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:50px;">  
 <img alt="ts" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="width:50px;">
+<img alt="express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="width:130px;">
 <img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="width:50px;"> 
 <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="width:50px;"> 
 <img alt="reactjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width:50px;">  
-<img alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="width:70px;">  
-<img alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="width:70px;">  
+<img alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="width:70px;">
 <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" style="width:60px;">
 </div>
 
