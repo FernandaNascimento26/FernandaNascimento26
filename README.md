@@ -18,7 +18,6 @@ Teacher of subjects related to IT: `Database`, `Web Development`, `Professional 
 Aug 2022 - the moment
 <br/>
 
-[<img align="left" height="98PX" width="98PX" alt="IA" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFvhjPOwQc5Zg/company-logo_100_100/0/1656960086032?e=1668038400&v=beta&t=wfeecOeqODBSzN1tYiU6QoLe4Yhi3J2A2ZMDc3rKyUw"/>](https://www.atlantico.com.br/)
 
 [<img align="left" height="98PX" width="98PX" alt="Escola de saúde" src="https://www.esp.ce.gov.br/wp-content/uploads/sites/78/2021/09/ESP-CE-ORGAO-SEC-INVERTIDA-WEB2.svg"/>](https://www.esp.ce.gov.br/)
 
@@ -27,6 +26,8 @@ Aug 2022 - the moment
 Featured projects: [Mapa da Saúde do Ceará](https://mapa.sus.ce.gov.br/) \
 Sep 2022 - the moment
 <br/>
+
+[<img align="left" height="98PX" width="98PX" alt="IA" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFvhjPOwQc5Zg/company-logo_100_100/0/1656960086032?e=1668038400&v=beta&t=wfeecOeqODBSzN1tYiU6QoLe4Yhi3J2A2ZMDc3rKyUw"/>](https://www.atlantico.com.br/)
 
 **Full Stack Development Instructor** \
 [**Instituto Atlântico**](https://www.atlantico.com.br/) • Part time \
