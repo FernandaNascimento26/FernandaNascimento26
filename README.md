@@ -9,13 +9,6 @@ Passionate about data and its power to transform people's lives (power of analys
 
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="98PX" width="98PX" alt="IA" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFvhjPOwQc5Zg/company-logo_100_100/0/1656960086032?e=1668038400&v=beta&t=wfeecOeqODBSzN1tYiU6QoLe4Yhi3J2A2ZMDc3rKyUw"/>](https://www.atlantico.com.br/)
-
-**Full Stack Development Instructor** \
-[**Instituto Atlântico**](https://www.atlantico.com.br/) • Part time \
-Languages & Technologies: `Node`, `JavaScript`, `React`, `JavaScript`\
-Sep 2021 - the moment
-<br/>
 
 [<img align="left" height="98px" width="98px" alt="IFCE" src="https://media-exp1.licdn.com/dms/image/C560BAQF1gFwAL4dHpg/company-logo_100_100/0/1519888283366?e=1668038400&v=beta&t=ZTWirK3A1lWfjjPzVEJ92oYmZAF7xtOab-6RMblKr44"/>](http://ifce.edu.br/)
 
@@ -23,6 +16,22 @@ Sep 2021 - the moment
 [**Instituto Federal de Educação, Ciência e Tecnologia do Ceará**](http://ifce.edu.br/) • Full-time \
 Teacher of subjects related to IT: `Database`, `Web Development`, `Professional Practice` and `Basic Informatics` \
 Aug 2022 - the moment
+<br/>
+
+[<img align="left" height="98PX" width="98PX" alt="IA" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFvhjPOwQc5Zg/company-logo_100_100/0/1656960086032?e=1668038400&v=beta&t=wfeecOeqODBSzN1tYiU6QoLe4Yhi3J2A2ZMDc3rKyUw"/>](https://www.atlantico.com.br/)
+
+[<img align="left" height="98PX" width="98PX" alt="Escola de saúde" src="https://www.esp.ce.gov.br/wp-content/uploads/sites/78/2021/09/ESP-CE-ORGAO-SEC-INVERTIDA-WEB2.svg"/>](https://www.esp.ce.gov.br/)
+
+**Specialist programmer** \
+[**Escola de Saúde Pública do Ceará**](https://www.esp.ce.gov.br/) \
+Featured projects: [Mapa da Saúde do Ceará](https://mapa.sus.ce.gov.br/) \
+Sep 2022 - the moment
+<br/>
+
+**Full Stack Development Instructor** \
+[**Instituto Atlântico**](https://www.atlantico.com.br/) • Part time \
+Languages & Technologies: `Node`, `JavaScript`, `React`, `JavaScript`\
+Sep 2021 - Sep 2022
 <br/>
 
 [<img align="left" height="98PX" width="98PX" alt="Escola de saúde" src="https://www.esp.ce.gov.br/wp-content/uploads/sites/78/2021/09/ESP-CE-ORGAO-SEC-INVERTIDA-WEB2.svg"/>](https://www.esp.ce.gov.br/)
