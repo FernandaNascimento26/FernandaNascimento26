@@ -23,7 +23,7 @@ Aug 2022 - the moment
 
 **Specialist programmer** \
 [**Escola de Saúde Pública do Ceará**](https://www.esp.ce.gov.br/) \
-Featured projects: [ObservaEPS]([https://observatorio.esp.ce.gov.br/]) \
+Featured projects: [ObservaEPS](https://observatorio.esp.ce.gov.br/) \
 Sep 2022 - the moment
 <br/>
 
