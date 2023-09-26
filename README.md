@@ -10,7 +10,7 @@ Passionate about data and its power to transform people's lives (power of analys
 In the overview below you will find my most recent work experience:
 
 
-[<img align="left" height="88px" width="98px" alt="IFCE" src="https://ifce.edu.br/prpi/documentos-1/semic/2018/logo-ifce-vertical.png/@@images/a8ec0f9c-0cbd-499c-a903-e034b8b8579e.png"/>](http://ifce.edu.br/)
+[<img align="left" height="88px" width="98px" alt="IFCE" src="./.github/ifce.png"/>](http://ifce.edu.br/)
 
 **Teacher** \
 [**Instituto Federal de Educação, Ciência e Tecnologia do Ceará**](http://ifce.edu.br/) • Full-time \
