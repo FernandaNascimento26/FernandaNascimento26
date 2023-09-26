@@ -10,7 +10,7 @@ Passionate about data and its power to transform people's lives (power of analys
 In the overview below you will find my most recent work experience:
 
 
-[<img align="left" height="98px" width="98px" alt="IFCE" src="https://media-exp1.licdn.com/dms/image/C560BAQF1gFwAL4dHpg/company-logo_100_100/0/1519888283366?e=1668038400&v=beta&t=ZTWirK3A1lWfjjPzVEJ92oYmZAF7xtOab-6RMblKr44"/>](http://ifce.edu.br/)
+[<img align="left" height="88px" width="98px" alt="IFCE" src="https://ifce.edu.br/prpi/documentos-1/semic/2018/logo-ifce-vertical.png/@@images/a8ec0f9c-0cbd-499c-a903-e034b8b8579e.png"/>](http://ifce.edu.br/)
 
 **Teacher** \
 [**Instituto Federal de Educação, Ciência e Tecnologia do Ceará**](http://ifce.edu.br/) • Full-time \
@@ -19,7 +19,7 @@ Aug 2022 - the moment
 <br/>
 
 
-[<img align="left" height="98PX" width="98PX" alt="Escola de saúde" src="https://www.esp.ce.gov.br/wp-content/uploads/sites/78/2021/09/ESP-CE-ORGAO-SEC-INVERTIDA-WEB2.svg"/>](https://www.esp.ce.gov.br/)
+[<img align="left" height="98px" width="98px" alt="Escola de saúde" src="https://www.esp.ce.gov.br/wp-content/uploads/sites/78/2021/09/ESP-CE-ORGAO-SEC-INVERTIDA-WEB2.svg"/>](https://www.esp.ce.gov.br/)
 
 **Specialist programmer** \
 [**Escola de Saúde Pública do Ceará**](https://www.esp.ce.gov.br/) \
@@ -27,7 +27,7 @@ Featured projects: [ObservaEPS](https://observatorio.esp.ce.gov.br/) \
 Sep 2022 - the moment
 <br/>
 
-[<img align="left" height="98PX" width="98PX" alt="IA" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFvhjPOwQc5Zg/company-logo_100_100/0/1656960086032?e=1668038400&v=beta&t=wfeecOeqODBSzN1tYiU6QoLe4Yhi3J2A2ZMDc3rKyUw"/>](https://www.atlantico.com.br/)
+[<img align="left" height="98PX" width="98PX" alt="IA" src="https://media.licdn.com/dms/image/D4D0BAQE-u4yfpq85ig/company-logo_200_200/0/1686749919088?e=1703721600&v=beta&t=FwfCNgXiZ5LlrShhSh3Ia0n69LuNu5z-MV5xPmKHxEM"/>](https://www.atlantico.com.br/)
 
 **Full Stack Development Instructor** \
 [**Instituto Atlântico**](https://www.atlantico.com.br/) • Part time \
@@ -35,7 +35,7 @@ Languages & Technologies: `Node`, `JavaScript`, `React`, `JavaScript`\
 Sep 2021 - Sep 2022
 <br/>
 
-[<img align="left" height="98PX" width="98PX" alt="Escola de saúde" src="https://www.esp.ce.gov.br/wp-content/uploads/sites/78/2021/09/ESP-CE-ORGAO-SEC-INVERTIDA-WEB2.svg"/>](https://www.esp.ce.gov.br/)
+[<img align="left" height="98px" width="98px" alt="Escola de saúde" src="https://www.esp.ce.gov.br/wp-content/uploads/sites/78/2021/09/ESP-CE-ORGAO-SEC-INVERTIDA-WEB2.svg"/>](https://www.esp.ce.gov.br/)
 
 **Specialist programmer** \
 [**Escola de Saúde Pública do Ceará**](https://www.esp.ce.gov.br/) \
@@ -43,7 +43,7 @@ Featured projects: [Mapa da Saúde do Ceará](https://mapa.sus.ce.gov.br/) \
 Feb 2021 - Feb 2022
 <br/>
 
-[<img align="left" height="98PX" width="98PX" alt="Simbiose" src="https://media-exp1.licdn.com/dms/image/C4D0BAQE-3EnKDVW-_w/company-logo_100_100/0/1580782652276?e=1668038400&v=beta&t=KOFlzMOPG1xmXN5wzogx6Od7w-O8UrArNwvTfjGj-QY"/>](https://www.simbioseventures.com/)
+[<img align="left" height="98px" width="98px" alt="Simbiose" src="https://media.licdn.com/dms/image/C4D0BAQE-3EnKDVW-_w/company-logo_200_200/0/1580782652276?e=1703721600&v=beta&t=789UwR69mF9EyzKr8nVoR2tfIgfZwVxBogPI7JngqWY"/>](https://www.simbioseventures.com/)
 
 **Pleno Developer** \
 [**Simbiose Ventures**](https://www.simbioseventures.com/) • Full-time \
