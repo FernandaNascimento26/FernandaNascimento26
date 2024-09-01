@@ -2,12 +2,20 @@
 
 ## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Fernanda Nascimento! ![Count views](https://komarev.com/ghpvc/?username=fernandanascimento26&color=blueviolet&style=flat-square)
 
-I am a master's degree in Computer Science with a focus on research related to data in education (school dropout) and health.
-Passionate about data and its power to transform people's lives (power of analysis, prediction, decision). Gradually I have been learning a little more about data science, carrying out some practical projects based on scientific studies.
+I hold a master's degree in Computer Science, with a research background in data analysis for education (school dropout) and health. Currently, I am pursuing a Ph.D., focusing on leveraging data science for social good. My work now involves analyzing text data to drive positive social impact. I am passionate about the power of data to transform lives through analysis, prediction, and informed decision-making, and I continually expand my expertise through practical projects grounded in scientific research.
+
 
 ## Work experience
 
 In the overview below you will find my most recent work experience:
+
+[<img align="left" height="98px" width="98px" alt="IFCE" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSQNlr8uDpISS3ftQmZdjiUOG7I0lmGpSQe_0phf3hOVRsVIra7TMyTbBtBmq4pmtQYI&usqp=CAU"/>](https://www.observatorio.ind.br/)
+
+**Backend Developer** \
+[**Sistema FIEC - Observatório da Indústria**]([http://ifce.edu.br/](http://ifce.edu.br/)](https://www.observatorio.ind.br/)) • Full-time \
+Languages & Technologies: `Node`, `JavaScript`, `React`,`PHP`, `Strapi`, `Laravel`, `SQL`\\
+Aug 2024 - at the moment
+<br/>
 
 
 [<img align="left" height="98px" width="98px" alt="IFCE" src="https://media-exp1.licdn.com/dms/image/C560BAQF1gFwAL4dHpg/company-logo_100_100/0/1519888283366?e=1668038400&v=beta&t=ZTWirK3A1lWfjjPzVEJ92oYmZAF7xtOab-6RMblKr44"/>](http://ifce.edu.br/)
@@ -15,7 +23,7 @@ In the overview below you will find my most recent work experience:
 **Teacher** \
 [**Instituto Federal de Educação, Ciência e Tecnologia do Ceará**](http://ifce.edu.br/) • Full-time \
 Teacher of subjects related to IT: `Database`, `Web Development`, `Professional Practice` and `Basic Informatics` \
-Aug 2022 - the moment
+Aug 2022 - Jul 2024
 <br/>
 
 
@@ -24,7 +32,7 @@ Aug 2022 - the moment
 **Specialist programmer** \
 [**Escola de Saúde Pública do Ceará**](https://www.esp.ce.gov.br/) \
 Featured projects: [ObservaEPS](https://observatorio.esp.ce.gov.br/) \
-Sep 2022 - the moment
+Sep 2022 - Aug 2024
 <br/>
 
 [<img align="left" height="98PX" width="98PX" alt="IA" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFvhjPOwQc5Zg/company-logo_100_100/0/1656960086032?e=1668038400&v=beta&t=wfeecOeqODBSzN1tYiU6QoLe4Yhi3J2A2ZMDc3rKyUw"/>](https://www.atlantico.com.br/)
