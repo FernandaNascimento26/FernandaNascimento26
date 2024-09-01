@@ -9,11 +9,11 @@ I hold a master's degree in Computer Science, with a research background in data
 
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="98px" width="105px" alt="FIEC" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSQNlr8uDpISS3ftQmZdjiUOG7I0lmGpSQe_0phf3hOVRsVIra7TMyTbBtBmq4pmtQYI&usqp=CAU"/>](https://www.observatorio.ind.br/)
+[<img align="left" height="108px" width="105px" alt="FIEC" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSQNlr8uDpISS3ftQmZdjiUOG7I0lmGpSQe_0phf3hOVRsVIra7TMyTbBtBmq4pmtQYI&usqp=CAU"/>](https://www.observatorio.ind.br/)
 
 **Backend Developer** \
 [**Sistema FIEC - Observatório da Indústria**]([https://www.observatorio.ind.br/](https://www.observatorio.ind.br/)) • Full-time \
-Languages & Technologies: `Node`, `JavaScript`, `React`,`PHP`, `Strapi`, `Laravel`, `SQL`\\
+Languages & Technologies: `Node`, `JavaScript`, `React`,`PHP`, `Strapi`, `Laravel`, `SQL`\
 Aug 2024 - at moment
 <br/>
 
@@ -23,7 +23,7 @@ Aug 2024 - at moment
 
 **Teacher** \
 [**Instituto Federal de Educação, Ciência e Tecnologia do Ceará**](http://ifce.edu.br/) • Full-time \
-Teacher of subjects related to IT: `Database`, `Web Development`, `Professional Practice` and `Basic Informatics` \
+Teacher of subjects related to IT: `Database`, `Web Development`, `Professional Practice` and `Basic Informatics`\
 Aug 2022 - Jul 2024
 <br/>
 
