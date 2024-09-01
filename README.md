@@ -9,13 +9,14 @@ I hold a master's degree in Computer Science, with a research background in data
 
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="98px" width="98px" alt="IFCE" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSQNlr8uDpISS3ftQmZdjiUOG7I0lmGpSQe_0phf3hOVRsVIra7TMyTbBtBmq4pmtQYI&usqp=CAU"/>](https://www.observatorio.ind.br/)
+[<img align="left" height="98px" width="105px" alt="FIEC" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSQNlr8uDpISS3ftQmZdjiUOG7I0lmGpSQe_0phf3hOVRsVIra7TMyTbBtBmq4pmtQYI&usqp=CAU"/>](https://www.observatorio.ind.br/)
 
 **Backend Developer** \
 [**Sistema FIEC - Observatório da Indústria**]([https://www.observatorio.ind.br/](https://www.observatorio.ind.br/)) • Full-time \
 Languages & Technologies: `Node`, `JavaScript`, `React`,`PHP`, `Strapi`, `Laravel`, `SQL`\\
-Aug 2024 - at the moment
+Aug 2024 - at moment
 <br/>
+
 
 
 [<img align="left" height="98px" width="98px" alt="IFCE" src="https://media-exp1.licdn.com/dms/image/C560BAQF1gFwAL4dHpg/company-logo_100_100/0/1519888283366?e=1668038400&v=beta&t=ZTWirK3A1lWfjjPzVEJ92oYmZAF7xtOab-6RMblKr44"/>](http://ifce.edu.br/)
