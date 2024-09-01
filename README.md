@@ -12,7 +12,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="98px" width="98px" alt="IFCE" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSQNlr8uDpISS3ftQmZdjiUOG7I0lmGpSQe_0phf3hOVRsVIra7TMyTbBtBmq4pmtQYI&usqp=CAU"/>](https://www.observatorio.ind.br/)
 
 **Backend Developer** \
-[**Sistema FIEC - Observatório da Indústria**]([http://ifce.edu.br/](http://ifce.edu.br/)](https://www.observatorio.ind.br/)) • Full-time \
+[**Sistema FIEC - Observatório da Indústria**]([https://www.observatorio.ind.br/](https://www.observatorio.ind.br/)) • Full-time \
 Languages & Technologies: `Node`, `JavaScript`, `React`,`PHP`, `Strapi`, `Laravel`, `SQL`\\
 Aug 2024 - at the moment
 <br/>
