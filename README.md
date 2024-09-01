@@ -18,8 +18,7 @@ Aug 2024 - at moment
 <br/>
 
 
-
-[<img align="left" height="98px" width="98px" alt="IFCE" src="https://media-exp1.licdn.com/dms/image/C560BAQF1gFwAL4dHpg/company-logo_100_100/0/1519888283366?e=1668038400&v=beta&t=ZTWirK3A1lWfjjPzVEJ92oYmZAF7xtOab-6RMblKr44"/>](http://ifce.edu.br/)
+[<img align="left" height="98px" width="98px" alt="IFCE" src="[https://media-exp1.licdn.com/dms/image/C560BAQF1gFwAL4dHpg/company-logo_100_100/0/1519888283366?e=1668038400&v=beta&t=ZTWirK3A1lWfjjPzVEJ92oYmZAF7xtOab-6RMblKr44](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOpDBsTzJbTyFZse1B_Nq1IF4X5SZlYdwNW8YQ_vR7ZYhnQqqv6LmL4vqpTrVSkBV-u2Y&usqp=CAU)"/>](http://ifce.edu.br/)
 
 **Teacher** \
 [**Instituto Federal de Educação, Ciência e Tecnologia do Ceará**](http://ifce.edu.br/) • Full-time \
@@ -36,7 +35,7 @@ Featured projects: [ObservaEPS](https://observatorio.esp.ce.gov.br/) \
 Sep 2022 - Aug 2024
 <br/>
 
-[<img align="left" height="98PX" width="98PX" alt="IA" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFvhjPOwQc5Zg/company-logo_100_100/0/1656960086032?e=1668038400&v=beta&t=wfeecOeqODBSzN1tYiU6QoLe4Yhi3J2A2ZMDc3rKyUw"/>](https://www.atlantico.com.br/)
+[<img align="left" height="98PX" width="98PX" alt="IA" src="[https://media-exp1.licdn.com/dms/image/C4E0BAQFvhjPOwQc5Zg/company-logo_100_100/0/1656960086032?e=1668038400&v=beta&t=wfeecOeqODBSzN1tYiU6QoLe4Yhi3J2A2ZMDc3rKyUw](https://media.licdn.com/dms/image/v2/D4D0BAQE-u4yfpq85ig/company-logo_200_200/company-logo_200_200/0/1686749919835?e=2147483647&v=beta&t=tGLmlMd11L1tpWQKppZDWrsuFaMQy91aW_728iAwuPI)"/>](https://www.atlantico.com.br/)
 
 **Full Stack Development Instructor** \
 [**Instituto Atlântico**](https://www.atlantico.com.br/) • Part time \
