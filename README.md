@@ -1,86 +1,73 @@
 <img align="right" src="https://user-images.githubusercontent.com/40062831/183268859-4ff4fa02-3069-4ff5-95ec-3a313cd80bc5.jpg" width="300"/>
 
-## Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Fernanda Nascimento! ![Count views](https://komarev.com/ghpvc/?username=fernandanascimento26&color=blueviolet&style=flat-square)
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Fernanda Nascimento
 
-I hold a master's degree in Computer Science, with a research background in data analysis for education (school dropout) and health. Currently, I am pursuing a Ph.D., focusing on leveraging data science for social good. My work now involves analyzing text data to drive positive social impact. I am passionate about the power of data to transform lives through analysis, prediction, and informed decision-making, and I continually expand my expertise through practical projects grounded in scientific research.
+![Profile views](https://komarev.com/ghpvc/?username=FernandaNascimento26&color=blueviolet&style=flat-square)
 
+🎓 **Ph.D. student** in Computer Science  
+📊 **Data Scientist** passionate about using data for social good  
+💻 **Backend Developer** and **Full Stack Instructor**  
+🌎 Working with open data, education, and health tech projects
 
-## Work experience
+---
 
-In the overview below you will find my most recent work experience:
+## 🚀 Technologies & Tools
 
-[<img align="left" height="108px" width="105px" alt="FIEC" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSQNlr8uDpISS3ftQmZdjiUOG7I0lmGpSQe_0phf3hOVRsVIra7TMyTbBtBmq4pmtQYI&usqp=CAU"/>](https://www.observatorio.ind.br/)
+<div align="center">
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![Strapi](https://img.shields.io/badge/-Strapi-black?style=flat-square&logo=strapi)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-**Backend Developer** \
-[**Sistema FIEC - Observatório da Indústria**]([https://www.observatorio.ind.br/](https://www.observatorio.ind.br/)) • Full-time \
-Languages & Technologies: `Node`, `JavaScript`, `React`,`PHP`, `Strapi`, `Laravel`, `SQL`\
-Aug 2024 - at moment
-<br/>
-
-
-[<img align="left" height="98px" width="98px" alt="IFCE" src="[https://media-exp1.licdn.com/dms/image/C560BAQF1gFwAL4dHpg/company-logo_100_100/0/1519888283366?e=1668038400&v=beta&t=ZTWirK3A1lWfjjPzVEJ92oYmZAF7xtOab-6RMblKr44](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOpDBsTzJbTyFZse1B_Nq1IF4X5SZlYdwNW8YQ_vR7ZYhnQqqv6LmL4vqpTrVSkBV-u2Y&usqp=CAU)"/>](http://ifce.edu.br/)
-
-**Teacher** \
-[**Instituto Federal de Educação, Ciência e Tecnologia do Ceará**](http://ifce.edu.br/) • Full-time \
-Teacher of subjects related to IT: `Database`, `Web Development`, `Professional Practice` and `Basic Informatics`\
-Aug 2022 - Jul 2024
-<br/>
-
-
-[<img align="left" height="98PX" width="98PX" alt="Escola de saúde" src="https://www.esp.ce.gov.br/wp-content/uploads/sites/78/2021/09/ESP-CE-ORGAO-SEC-INVERTIDA-WEB2.svg"/>](https://www.esp.ce.gov.br/)
-
-**Specialist programmer** \
-[**Escola de Saúde Pública do Ceará**](https://www.esp.ce.gov.br/) \
-Featured projects: [ObservaEPS](https://observatorio.esp.ce.gov.br/) \
-Sep 2022 - Aug 2024
-<br/>
-
-[<img align="left" height="98PX" width="98PX" alt="IA" src="[https://media-exp1.licdn.com/dms/image/C4E0BAQFvhjPOwQc5Zg/company-logo_100_100/0/1656960086032?e=1668038400&v=beta&t=wfeecOeqODBSzN1tYiU6QoLe4Yhi3J2A2ZMDc3rKyUw](https://media.licdn.com/dms/image/v2/D4D0BAQE-u4yfpq85ig/company-logo_200_200/company-logo_200_200/0/1686749919835?e=2147483647&v=beta&t=tGLmlMd11L1tpWQKppZDWrsuFaMQy91aW_728iAwuPI)"/>](https://www.atlantico.com.br/)
-
-**Full Stack Development Instructor** \
-[**Instituto Atlântico**](https://www.atlantico.com.br/) • Part time \
-Languages & Technologies: `Node`, `JavaScript`, `React`, `JavaScript`\
-Sep 2021 - Sep 2022
-<br/>
-
-[<img align="left" height="98PX" width="98PX" alt="Escola de saúde" src="https://www.esp.ce.gov.br/wp-content/uploads/sites/78/2021/09/ESP-CE-ORGAO-SEC-INVERTIDA-WEB2.svg"/>](https://www.esp.ce.gov.br/)
-
-**Specialist programmer** \
-[**Escola de Saúde Pública do Ceará**](https://www.esp.ce.gov.br/) \
-Featured projects: [Mapa da Saúde do Ceará](https://mapa.sus.ce.gov.br/) \
-Feb 2021 - Feb 2022
-<br/>
-
-[<img align="left" height="98PX" width="98PX" alt="Simbiose" src="https://media-exp1.licdn.com/dms/image/C4D0BAQE-3EnKDVW-_w/company-logo_100_100/0/1580782652276?e=1668038400&v=beta&t=KOFlzMOPG1xmXN5wzogx6Od7w-O8UrArNwvTfjGj-QY"/>](https://www.simbioseventures.com/)
-
-**Pleno Developer** \
-[**Simbiose Ventures**](https://www.simbioseventures.com/) • Full-time \
-Languages & Technologies: `Java`, `JUnit`, `Python`, `Database` \
-May 2020 - May 2021
-<br/>
-<br/>
-
-## :rocket: My Skills
-
-<div> 
-<img alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:50px;">  
-<img alt="ts" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="width:50px;">
-<img alt="express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="width:130px;">
-<img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="width:50px;"> 
-<img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="width:50px;"> 
-<img alt="reactjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width:50px;">  
-<img alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="width:70px;">
-<img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" style="width:60px;">
 </div>
 
-## :zap: Github Stats
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaNascimento26&show_icons=true&layout=compact&theme=radical&cache_seconds=1000" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaNascimento26&layout=compact&theme=radical"/>
+## 🗂️ Featured Projects
 
-## :earth_americas: You can find me at
+- 📊 [**Prejudice Detection in WhatsApp and Telegram**](https://github.com/FernandaNascimento26/prejudice-detection) — Machine learning models to detect prejudice in instant messaging.
+- 🛡️ [**Open Health Data Visualization**](https://github.com/FernandaNascimento26/health-data-dashboard) — Data analysis and visualization for health public policies.
+- 🔍 [**Educational Dropout Prediction**](https://github.com/FernandaNascimento26/dropout-prediction) — Predictive models for reducing school dropout.
 
-<div>
-  <span><a href="https://www.linkedin.com/in/fernanda-nascimento-56761b122/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" ></a></span>
-  <span><a href="mailto:nascimentofernandaf@outlook.com" target="_blank" ><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" ></a></span>
+---
+
+## 🧩 Professional Timeline
+
+| Period        | Role                                  | Institution                                      |
+|---------------|---------------------------------------|--------------------------------------------------|
+| 2024 – Present | Backend Developer                     | [Sistema FIEC - Observatório da Indústria](https://www.observatorio.ind.br/) |
+| 2022 – 2024   | IT Teacher                             | [IFCE - Instituto Federal do Ceará](http://ifce.edu.br/) |
+| 2022 – 2024   | Specialist Programmer                  | [ESP-CE - Escola de Saúde Pública](https://www.esp.ce.gov.br/) |
+| 2021 – 2022   | Full Stack Development Instructor      | [Instituto Atlântico](https://www.atlantico.com.br/) |
+| 2020 – 2021   | Pleno Developer                        | [Simbiose Ventures](https://www.simbioseventures.com/) |
+
+---
+
+## 📈 Github Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaNascimento26&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaNascimento26&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🌎 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/fernanda-nascimento-56761b122/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nascimentofernandaf@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+  </a>
 </div>
