@@ -44,10 +44,11 @@
 
 | Period        | Role                                  | Institution                                      |
 |---------------|---------------------------------------|--------------------------------------------------|
+| 2025 – Present | Tech Lead                             | [Lab Nuven - Polo de Inovação Embrapii e IFCE](https://labnuven.com.br/wp-content/uploads/2023/06/15.png) |
 | 2024 – Present | Backend Developer                     | [Sistema FIEC - Observatório da Indústria](https://www.observatorio.ind.br/) |
 | 2022 – 2024   | IT Teacher                             | [IFCE - Instituto Federal do Ceará](http://ifce.edu.br/) |
-| 2022 – 2024   | Specialist Programmer                  | [ESP-CE - Escola de Saúde Pública](https://www.esp.ce.gov.br/) |
 | 2021 – 2022   | Full Stack Development Instructor      | [Instituto Atlântico](https://www.atlantico.com.br/) |
+| 2021 – 2024   | Specialist Programmer                  | [ESP-CE - Escola de Saúde Pública](https://www.esp.ce.gov.br/) |
 | 2020 – 2021   | Pleno Developer                        | [Simbiose Ventures](https://www.simbioseventures.com/) |
 
 ---
